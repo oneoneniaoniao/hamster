@@ -1,0 +1,36 @@
+body{
+  background-color: #ffeded;
+}
+hr{
+    border: 0;
+    height: 0;
+    margin: auto;
+    padding: 0;
+    border: 0;
+    overflow: visible;
+    border-top: 10px dotted #fff;
+    width: 10%;
+}
+h1{
+  color: #e5707e;
+}
+h3{
+  color: #e5707e;
+}
+img{
+background-color: purple;
+border-radius: 100%}
+
+.broccoli{
+background-color: red;
+}
+.broccoli:hover{
+background-color: pink;
+}
+
+.bacon{
+background-color: green;
+}
+.bacon:hover{
+background: yellow;
+}
